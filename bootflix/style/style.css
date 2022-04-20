@@ -175,8 +175,8 @@ main {
     font-weight: 700;
 }
 
-.item :hover {
-    width: 250px !important;
+.item > img.bootcamps:hover {
+    width: 250px;
     cursor: pointer;
 }
 
